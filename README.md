@@ -1,2 +1,2 @@
 # linked-list
-writing c++ code
+WRITING A C++ CODE ON LINKED LISTS BY TAKING A REAL LIFE APPLICATION
